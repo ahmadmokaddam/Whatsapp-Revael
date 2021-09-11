@@ -64,6 +64,16 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 * Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC. Non-Developer accounts do not work with Cydia Impactor.
 * The app will not receive Push Notifications and you won't be able to use iCloud features.
 
+## Download Links
+
+* **twitter:** Add __[twitter](http://twitter.com/ahmadmokaddam)__ . 
+* **instagram:** Add __[instagram](http://instagram.com/ahmadmokaddam)__ . 
+* **facebook:** Add __[facebook](http://facebook.com/ahmadmokaddam)__ . 
+* **snapchat:** Add __[snapchat](http://apt.thebigboss.org/repofiles/cydia)__ . 
+* **telegram:** Add __[telegram](http://telegram.com/ahmadmokaddam)__ . 
+* **youtube:** Add __[youtube](http://apt.thebigboss.org/repofiles/cydia)__ . 
+* **webSite:** Add __[WebSite](http://mokadam.com)__ . 
+
 
 
 # Note
