@@ -1,14 +1,46 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Contributors](https://a.top4top.io/p_2080o56e70.png)  
+
+
+
+
+
 # Whatsapp-Revael
 ipa tweak Whatsapp Revael for WhatsApp Messenger
 -----------
 &nbsp;
 
-## Download Links
+
+
+![Contributors](https://b.top4top.io/p_2080g0a291.png)  
+
 
 * **Jailbreak:** Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
 * (No Jailbreak): 
- 
+  ![Contributors](https://a.top4top.io/p_2080fcla60.png) 
         # Whatsapp Revael with Watusi 3
        
        
