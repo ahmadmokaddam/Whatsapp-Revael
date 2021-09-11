@@ -36,20 +36,20 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 ## Follow Me For Updates & News
 
-* **twitter:** Follow Me   __[twitter](http://twitter.com/ahmadmokaddam)__ . 
-* **instagram:** Follow Me __[instagram](http://instagram.com/ahmadmokaddam)__ . 
-* **facebook:** Follow Me  __[facebook](http://facebook.com/ahmadmokaddam)__ . 
-* **snapchat:** Follow Me  __[snapchat](https://www.snapchat.com/add/ahmad_mokadam)__ . 
-* **telegram:** Subscribe  __[telegram](http://https://t.me/AHMADMOKADAM)__ . 
-* **youtube:** Subscribe   __[youtube](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
-* **webSite:** Vist.       __[WebSite](http://mokadam.com)__ . 
+* **twitter:** Follow Me   __[Ahmad Mokadam](http://twitter.com/ahmadmokaddam)__ . 
+* **instagram:** Follow Me __[Ahmad Mokadam](http://instagram.com/ahmadmokaddam)__ . 
+* **facebook:** Follow Me  __[Ahmad Mokadam](http://facebook.com/ahmadmokaddam)__ . 
+* **snapchat:** Follow Me  __[Ahmad Mokadam](https://www.snapchat.com/add/ahmad_mokadam)__ . 
+* **telegram:** Subscribe  __[Ahmad Mokadam](http://https://t.me/AHMADMOKADAM)__ . 
+* **youtube:** Subscribe   __[Ahmad Mokadam](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
+* **webSite:** Vist.       __[Ahmad Mokadam](http://mokadam.com)__ . 
 
 
 
 
 # لأي مشاكل المرجو التواصل عبر البريد او مواقع التواصل 
 # For any problems, please contact us via email or social media
-* **Email:** Vist.       __[Contact](mailto:ahmadmokaddam@gmail.com)__ . 
+* **Email:** Contact.       __[Gmail](mailto:ahmadmokaddam@gmail.com)__ . 
 
 
 
