@@ -122,7 +122,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 * Enter your password when prompted 
 
 * If you get an alert like the following, press "OK"
-* 
+
 * Wait for Cydia Impactor to finish and you will find the app installed on your device
 
 # Note
