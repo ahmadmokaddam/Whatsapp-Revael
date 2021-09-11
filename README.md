@@ -21,6 +21,30 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         
 &nbsp;
 
+
+
+## Follow Me For Updates & News
+
+* **twitter:** Follow Me   __[twitter](http://twitter.com/ahmadmokaddam)__ . 
+* **instagram:** Follow Me __[instagram](http://instagram.com/ahmadmokaddam)__ . 
+* **facebook:** Follow Me  __[facebook](http://facebook.com/ahmadmokaddam)__ . 
+* **snapchat:** Follow Me  __[snapchat](https://www.snapchat.com/add/ahmad_mokadam)__ . 
+* **telegram:** Subscribe  __[telegram](http://https://t.me/AHMADMOKADAM)__ . 
+* **youtube:** Subscribe   __[youtube](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
+* **webSite:** Vist.       __[WebSite](http://mokadam.com)__ . 
+
+
+
+
+# لأي مشاكل الرجو التواصل عبر البريد او مواقع التواصل 
+# For any problems, please contact us via email or social media
+* **Email:** Vist.       __[Contact](mailto:ahmadmokaddam@gmail.com)__ . 
+
+
+
+
+
+
 # How to Use on non-jailbroken devices
 
 1. A computer running macOS or Windows
@@ -64,21 +88,4 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 * Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC. Non-Developer accounts do not work with Cydia Impactor.
 * The app will not receive Push Notifications and you won't be able to use iCloud features.
 
-## Follow Me For Updates & News
 
-* **twitter:** Follow Me   __[twitter](http://twitter.com/ahmadmokaddam)__ . 
-* **instagram:** Follow Me __[instagram](http://instagram.com/ahmadmokaddam)__ . 
-* **facebook:** Follow Me  __[facebook](http://facebook.com/ahmadmokaddam)__ . 
-* **snapchat:** Follow Me  __[snapchat](https://www.snapchat.com/add/ahmad_mokadam)__ . 
-* **telegram:** Subscribe  __[telegram](http://https://t.me/AHMADMOKADAM)__ . 
-* **youtube:** Subscribe   __[youtube](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
-* **webSite:** Vist.       __[WebSite](http://mokadam.com)__ . 
-
-
-
-
-# Note
-* **Email:** Vist.       __[Contact](mailto:ahmadmokaddam@gmail.com)__ . 
-
-* لأي مشاكل الموجو مراسلتي عبر البريد.
-* شكرآ.
