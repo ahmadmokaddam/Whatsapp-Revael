@@ -14,10 +14,10 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         <small>all in watsapp revael with Watusi 3 .</small>
         | Application | Bundle | Version | Watusi 3 | Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael](https://mega.nz/file/5fhCyZiL#T3F7cvUVuHc7q3LzbzyVtTA4HQo2GYjsb9C5opQZ8Kw) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | - |
-        | [WA Business Revael](https://mega.nz/file/FCxFjAbB#_Nj9kuOeMn_JU_l5YNf0WGc8J_vLkXMiTzO0--5eiYQ) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | 4.1.10 |
-        | [WhatsApp Revael & watusi3](https://mega.nz/file/wGxxgaQK#zOZlyIPE5mafapXKZWV_qKnDtl_YozlXHdp5iSgchWw) | com.fouadraheb.watusi | 2.21.170 | 1.1 | - |
-        | [WA Business Revael & Watusi3](https://mega.nz/file/UOgmTDoK#Z_hlNapxWj16JX2qRUewPYhRQMPwLEcTpxthOxd4Xm4) | com.fouadraheb.watusi | 2.21.170 | 1.1 | 
+        | [WhatsApp Revael](https://mega.nz/file/5fhCyZiL#T3F7cvUVuHc7q3LzbzyVtTA4HQo2GYjsb9C5opQZ8Kw) | net.whatsapp.WhatsApp | 2.21.170 | NO | 10.0 |
+        | [WA Business Revael](https://mega.nz/file/FCxFjAbB#_Nj9kuOeMn_JU_l5YNf0WGc8J_vLkXMiTzO0--5eiYQ) | net.whatsapp.WhatsAppSMB | 2.21.170 | NO | 10.0 |
+        | [WhatsApp Revael & watusi3](https://mega.nz/file/wGxxgaQK#zOZlyIPE5mafapXKZWV_qKnDtl_YozlXHdp5iSgchWw) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | 10.0 |
+        | [WA Business Revael & Watusi3](https://mega.nz/file/UOgmTDoK#Z_hlNapxWj16JX2qRUewPYhRQMPwLEcTpxthOxd4Xm4) | net.whatsapp.WhatsAppSMB | 2.21.170 | 1.1 | 10.0 |
         
 &nbsp;
 
