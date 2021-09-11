@@ -47,7 +47,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 
 
-# لأي مشاكل الرجو التواصل عبر البريد او مواقع التواصل 
+# لأي مشاكل المرجو التواصل عبر البريد او مواقع التواصل 
 # For any problems, please contact us via email or social media
 * **Email:** Vist.       __[Contact](mailto:ahmadmokaddam@gmail.com)__ . 
 
