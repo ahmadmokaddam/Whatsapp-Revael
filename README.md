@@ -7,7 +7,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 * **Jailbreak:** Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
-* ** (No Jailbreak):** 
+* (No Jailbreak):*
 
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
