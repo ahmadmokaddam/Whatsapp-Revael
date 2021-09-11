@@ -11,8 +11,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
-        <small>all in watsapp revael with Watusi 3 .</small>
-        | Application | Bundle | Version | Watusi 3 | Revael |
+        <small>all Whatsapp Revael with Watusi 3 .</small>
+        | Application | Bundle | Version | Watusi 3 | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [WhatsApp Revael](https://mega.nz/file/zKwRRAbb#9-GH7HU4SMWlziLAV9p6WjhLMq-sqFD535NJ5hl4MVM) | net.whatsapp.WhatsApp | 2.21.170 | NO | 10.0 |
         | [WA Business Revael](https://mega.nz/file/2LgxgCgB#nhSYkPzSreFZP_LBQaYDP2iem5QNinCYuDgqRc9kmC8) | net.whatsapp.WhatsAppSMB | 2.21.170 | NO | 10.0 |
@@ -21,13 +21,13 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         
 &nbsp;
 
-## How to Use on non-jailbroken devices
+# How to Use on non-jailbroken devices
 
 1. A computer running macOS or Windows
 2. Internet connection
 3. Apple ID (email & password)
 
-### AltStore
+# AltStore
 
 * Download the IPA file from the link above and copy it to your phone, using iCloud Drive, Airdrop, or any other method.
 
@@ -39,7 +39,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 * Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
-### Cydia Impactor (Requires Developer Account)
+# Cydia Impactor (Requires Developer Account)
 
 * Download the IPA file from the link above and place it on your Desktop
 
@@ -59,14 +59,14 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 * 
 * Wait for Cydia Impactor to finish and you will find the app installed on your device
 
-### Note
+# Note
 
 * Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC. Non-Developer accounts do not work with Cydia Impactor.
 * The app will not receive Push Notifications and you won't be able to use iCloud features.
 
 
 
-### Note
+# Note
 
 * لأي مشاكل الموجو مراسلتي عبر البريد.
 * شكرآ.
