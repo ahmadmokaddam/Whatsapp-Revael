@@ -19,8 +19,9 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         # Whatsapp Revael with Watusi 3
        
        
-    1.  Official Bundles
+    1.  Official Bundles | باندل أساسي يحتاج حذف النسخه الرسميه
 
+  
         
         
         | Application | Bundle | Version | Watusi 3 | Whatsapp Revael |
@@ -29,32 +30,57 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         | [WA Business Revael](https://mega.nz/file/WPoAyYQA#rix69Q272uJ3aHCihuUTEBqsRazgOvGdz8ogCg1Kl18) | net.whatsapp.WhatsAppSMB | 2.21.170 | NO | 10.1 |
         | [WhatsApp Revael & watusi3](https://mega.nz/file/iHowjSpC#g3nLjM9W97EIToUWI860c0ZzPsXtt9MlGGYrPt2Hqsc) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | 10.1 |
         | [WA Business Revael & Watusi3](https://mega.nz/file/zXpGxYDS#bSOSKQmtSqc7bzgvjOVSU77ry8f8xXZaarIIR2jq_vQ) | net.whatsapp.WhatsAppSMB | 2.21.170 | 1.1 | 10.1 |
+         
+         
+        
+        
+        
+          
+
+        | duplicated Bundle | باندل مكرر لا يحتاج حذف النسخه الأساسيه | 
+        | ------------------ |:---------:|
+
+        
+        | Application | Bundle | Version | Watusi 3 | Whatsapp Revael |
+        | ------------------ |:---------:|:------:|:------:|:------:|
+        | [WhatsApp Revael](https://mega.nz/file/3HAXXI6T#Lt1J-ArgO9ZsSiXpt4J3NgKbB-zS9d_4-jUbRS6FWI4) | net.whatsapp.WhatsApp.duplicated | 2.21.170 | NO | 10.1 |
+        | [WA Business Revael](https://mega.nz/file/bLQhXSaB#OytcKltGPvvzs7hPHJ4kihwVMZmJUysgqaV2PPn99nw) | net.whatsapp.WhatsAppSMB.duplicated | 2.21.170 | NO | 10.1 |
+        | [WhatsApp Revael & watusi3](https://mega.nz/file/iXZzmYrB#lCqRJfsTu3jc6TDzyPWx-nHqI5Gdt9VvRfDPaqamCSE) | net.whatsapp.WhatsApp.duplicated | 2.21.170 | 1.1 | 10.1 |
+        | [WA Business Revael & Watusi3](https://mega.nz/file/6SRRyC7b#y0mUJiaY2ipZbnf5Ak2IzMHmnGN2-s3L2ZgVSEGSYhA) | net.whatsapp.WhatsAppSMB.duplicated | 2.21.170 | 1.1 | 10.1 |
+        
         
 &nbsp;
 
-
-
 ## Follow Me For Updates & News
+## تابعني لتحصل على أخر التحديثات والأخبار
 
-* **twitter:** Follow Me   __[Ahmad Mokadam](http://twitter.com/ahmadmokaddam)__ . 
-* **instagram:** Follow Me __[Ahmad Mokadam](http://instagram.com/ahmadmokaddam)__ . 
-* **facebook:** Follow Me  __[Ahmad Mokadam](http://facebook.com/ahmadmokaddam)__ . 
-* **snapchat:** Follow Me  __[Ahmad Mokadam](https://www.snapchat.com/add/ahmad_mokadam)__ . 
-* **telegram:** Subscribe  __[Ahmad Mokadam](http://https://t.me/AHMADMOKADAM)__ . 
-* **youtube:** Subscribe   __[Ahmad Mokadam](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
-* **webSite:** Vist.       __[Ahmad Mokadam](http://mokadam.com)__ . 
+* **twitter:** تويتر   __[Ahmad Mokadam](http://twitter.com/ahmadmokaddam)__ . 
+* **instagram:** أنستاغرام __[Ahmad Mokadam](http://instagram.com/ahmadmokaddam)__ . 
+* **facebook:** فيسبوك  __[Ahmad Mokadam](http://facebook.com/ahmadmokaddam)__ . 
+* **snapchat:** سناب شات  __[Ahmad Mokadam](https://www.snapchat.com/add/ahmad_mokadam)__ . 
+* **telegram:** تيليغرام  __[Ahmad Mokadam](http://https://t.me/AHMADMOKADAM)__ . 
+* **youtube:** يوتيوب   __[Ahmad Mokadam](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
+* **webSite:** الموقع الإلكتروني.       __[Ahmad Mokadam](http://mokadam.com)__ . 
 
 
 
 
 # لأي مشاكل المرجو التواصل عبر البريد او مواقع التواصل 
 # For any problems, please contact us via email or social media
-* **Email:** Contact.       __[Gmail](mailto:ahmadmokaddam@gmail.com)__ . 
+* **Email:** البريد.       __[Gmail](mailto:ahmadmokaddam@gmail.com)__ . 
 
 
+-----------------------
 
+# العربيه
 
+# شرح الأستخدام بدون جليبريك
 
+# * شرح مبسط للتثبيت بدون جليبريك بالعربيه [أضغط هنا](https://www.mokadam.com/p/alt.html?m=1)
+
+--------------------
+
+# English
 
 # How to Use on non-jailbroken devices
 
