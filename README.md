@@ -2,7 +2,7 @@
 
 
 
-# Whatsapp-Revael V10.1
+# Whatsapp-Revael V10.11
 ipa tweak Whatsapp Revael for WhatsApp Messenger
 -----------
 &nbsp;
@@ -16,7 +16,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 * (No Jailbreak): 
   ![Contributors](https://a.top4top.io/p_2080fcla60.png) 
-        # Whatsapp Revael with Watusi 3
+        # Whatsapp Revael 
        
        
     1.  Official Bundles | باندل أساسي يحتاج حذف النسخه الرسميه
@@ -24,30 +24,16 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
   
         
         
-        | Application | Bundle | Version | Watusi 3 | Whatsapp Revael |
+        | Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael](https://mega.nz/file/KD4CHArB#nBVnf_P_xH-C4XngcwOktOOsLl4uHfAohplsvzoHOJo) | net.whatsapp.WhatsApp | 2.21.170 | NO | 10.1 |
-        | [WA Business Revael](https://mega.nz/file/WPoAyYQA#rix69Q272uJ3aHCihuUTEBqsRazgOvGdz8ogCg1Kl18) | net.whatsapp.WhatsAppSMB | 2.21.170 | NO | 10.1 |
-        | [WhatsApp Revael & watusi3](https://mega.nz/file/iHowjSpC#g3nLjM9W97EIToUWI860c0ZzPsXtt9MlGGYrPt2Hqsc) | net.whatsapp.WhatsApp | 2.21.170 | 1.1 | 10.1 |
-        | [WA Business Revael & Watusi3](https://mega.nz/file/zXpGxYDS#bSOSKQmtSqc7bzgvjOVSU77ry8f8xXZaarIIR2jq_vQ) | net.whatsapp.WhatsAppSMB | 2.21.170 | 1.1 | 10.1 |
+        | [WhatsApp Revael](https://mega.nz/file/mKZVyZCa#l2W5y-Q-FqYM6CS7D04k_T6D8sqwgIUNrrilZuBYtUc) | net.whatsapp.WhatsApp | 2.24.81 | NO | 10.11 |
+        | [WA Business Revael](https://mega.nz/file/HCoxBLjC#hMyhTjEwCr7blC26Xp3aJFVUq3U_GQNkoPhy6z8XWTo) | net.whatsapp.WhatsAppSMB | 2.24.81 | NO | 10.11 |
+        | [WhatsApp Revael & Notices](https://mega.nz/file/vZQhWAxS#DcvK2-aD49a2ogVWEJooHrw9_kF1uotGprczQrLIqp8) | net.whatsapp.WhatsApp | 2.24.81 | YES | 10.11 |
+        | [WA Business Revael & Notices](https://mega.nz/file/nRgWWCZI#S7TwWZryWQGa_eKxWsOstC7fbkIpiAqTKwxqQZmA3pI) | net.whatsapp.WhatsAppSMB | 2.24.81 | YES | 10.11 |
          
          
-        
-        
         
           
-
-        | duplicated Bundle | باندل مكرر لا يحتاج حذف النسخه الأساسيه | 
-        | ------------------ |:---------:|
-
-        
-        | Application | Bundle | Version | Watusi 3 | Whatsapp Revael |
-        | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael](https://mega.nz/file/3HAXXI6T#Lt1J-ArgO9ZsSiXpt4J3NgKbB-zS9d_4-jUbRS6FWI4) | net.whatsapp.WhatsApp.duplicated | 2.21.170 | NO | 10.1 |
-        | [WA Business Revael](https://mega.nz/file/bLQhXSaB#OytcKltGPvvzs7hPHJ4kihwVMZmJUysgqaV2PPn99nw) | net.whatsapp.WhatsAppSMB.duplicated | 2.21.170 | NO | 10.1 |
-        | [WhatsApp Revael & watusi3](https://mega.nz/file/iXZzmYrB#lCqRJfsTu3jc6TDzyPWx-nHqI5Gdt9VvRfDPaqamCSE) | net.whatsapp.WhatsApp.duplicated | 2.21.170 | 1.1 | 10.1 |
-        | [WA Business Revael & Watusi3](https://mega.nz/file/6SRRyC7b#y0mUJiaY2ipZbnf5Ak2IzMHmnGN2-s3L2ZgVSEGSYhA) | net.whatsapp.WhatsAppSMB.duplicated | 2.21.170 | 1.1 | 10.1 |
-        
         
 &nbsp;
 
