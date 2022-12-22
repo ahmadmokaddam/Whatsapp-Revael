@@ -30,23 +30,32 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         | [WA Business Revael](https://mega.nz/file/HCoxBLjC#hMyhTjEwCr7blC26Xp3aJFVUq3U_GQNkoPhy6z8XWTo) | net.whatsapp.WhatsAppSMB | 2.24.81 | NO | 10.11 |
         | [WhatsApp Revael & Notices](https://mega.nz/file/vZQhWAxS#DcvK2-aD49a2ogVWEJooHrw9_kF1uotGprczQrLIqp8) | net.whatsapp.WhatsApp | 2.24.81 | YES | 10.11 |
         | [WA Business Revael & Notices](https://mega.nz/file/nRgWWCZI#S7TwWZryWQGa_eKxWsOstC7fbkIpiAqTKwxqQZmA3pI) | net.whatsapp.WhatsAppSMB | 2.24.81 | YES | 10.11 |
+
+
+
+
+       
+          
+
+        | TrollStore Bundle Official | ترول ستور باندل رسمي | 
+        | ------------------ |:---------:|
+
+        
+        | Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
+        | ------------------ |:---------:|:------:|:------:|:------:|
+        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/13GNdQ3YmAzezdrzr_IpJGkOz7xwgKDrT/view) | net.whatsapp.WhatsApp.duplicated | 2.21.170 | YES | 10.11 |
+        | [WA Business Revael TrollStore](https://drive.google.com/file/d/1YCj7bacKjt0VX7cMGXKyQgY1ZJNcv1fc/view) | net.whatsapp.WhatsAppSMB.duplicated | 2.21.170 | YES | 10.11 |
+       
+       
+	
+	
+	
          
          
-         
-    | TrollStore Bundle Official| ترول ستور باندل رسمي | 
-        | ------------------ |:---------:|  
-         
-    
-         
-      
-	| Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
-		| ------------------ |:---------:|:------:|:------:|:------:|
-		| [WhatsApp Revael](https://drive.google.com/file/d/13GNdQ3YmAzezdrzr_IpJGkOz7xwgKDrT/view) | net.whatsapp.WhatsApp | 2.24.81 | YES | 10.11 |
-		| [WA Business Revael](https://drive.google.com/file/d/1YCj7bacKjt0VX7cMGXKyQgY1ZJNcv1fc/view) | net.whatsapp.WhatsAppSMB | 2.24.81 | YES | 10.11 |
-	   
+  
        
          
-         
+     &nbsp;    
   
          
          
