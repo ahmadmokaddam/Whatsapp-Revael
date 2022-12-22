@@ -23,6 +23,11 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
   
         
+          
+
+        | IPA Needs certification  | نسخ IPA تحتاج التوقيع بشهادة | 
+        | ------------------ |:---------:|
+
         
         | Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
