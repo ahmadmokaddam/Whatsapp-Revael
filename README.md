@@ -43,8 +43,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         
         | Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/13GNdQ3YmAzezdrzr_IpJGkOz7xwgKDrT/view) | net.whatsapp.WhatsApp | 2.21.170 | YES | 10.11 |
-        | [WA Business Revael TrollStore](https://drive.google.com/file/d/1YCj7bacKjt0VX7cMGXKyQgY1ZJNcv1fc/view) | net.whatsapp.WhatsAppSMB | 2.21.170 | YES | 10.11 |
+        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/13GNdQ3YmAzezdrzr_IpJGkOz7xwgKDrT/view) | net.whatsapp.WhatsApp | 2.24.81 | YES | 10.11 |
+        | [WA Business Revael TrollStore](https://drive.google.com/file/d/1YCj7bacKjt0VX7cMGXKyQgY1ZJNcv1fc/view) | net.whatsapp.WhatsAppSMB | 2.24.81 | YES | 10.11 |
        
        
 	
