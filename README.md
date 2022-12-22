@@ -32,6 +32,26 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         | [WA Business Revael & Notices](https://mega.nz/file/nRgWWCZI#S7TwWZryWQGa_eKxWsOstC7fbkIpiAqTKwxqQZmA3pI) | net.whatsapp.WhatsAppSMB | 2.24.81 | YES | 10.11 |
          
          
+         
+         
+       | TrollStore Bundle Official| ترول ستور باندل رسمي | 
+        | ------------------ |:---------:|  
+         
+  
+    
+         
+      
+		| Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
+		| ------------------ |:---------:|:------:|:------:|:------:|
+		| [WhatsApp Revael](https://drive.google.com/file/d/13GNdQ3YmAzezdrzr_IpJGkOz7xwgKDrT/view) | net.whatsapp.WhatsApp | 2.24.81 | YES | 10.11 |
+		| [WA Business Revael](https://drive.google.com/file/d/1YCj7bacKjt0VX7cMGXKyQgY1ZJNcv1fc/view) | net.whatsapp.WhatsAppSMB | 2.24.81 | YES | 10.11 |
+	   
+       
+         
+         
+  
+         
+         
  * ** IPA & TrollStore:**
  * **Dylib For Shop Owners:** دايلب لأصحاب المتاجر   __[WhatsappRevael.dylib](https://mega.nz/file/ffYChbCZ#gInW-2rtrsWynLmvridNHm4RipvMaazgojB3rN-zrfM)__ . 
     
