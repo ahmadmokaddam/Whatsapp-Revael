@@ -33,7 +33,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [WhatsApp Revael](https://is.gd/4s7PGS) | net.whatsapp.WhatsApp | 23.3.77 | NO | 10.14 |
         | [WA Business Revael](https://is.gd/BmV6Dl) | net.whatsapp.WhatsAppSMB | 23.3.77 | NO | 10.14 |
-        | [WhatsApp Revael & Notices](https://mega.nz/) | net.whatsapp.WhatsApp | Soon | Soon | Soon |
+        | [WhatsApp Revael & Notices](https://mega.nz/file/WVYXlDYB#oC_cXu43iXmqMosgwXS8S9fXmfLmpDWivkbe0yEML0E) | net.whatsapp.WhatsApp | 23.3.77 | YES | 10.14 |
         | [WA Business Revael & Notices](https://mega.nz/file/zVAURDTD#EIdR9kf_9XBtX4IKOCYqSwPb5fbfVW9J9NWyCWnDFac) | net.whatsapp.WhatsAppSMB | 23.3.77 | YES | 10.14 |
 
 
