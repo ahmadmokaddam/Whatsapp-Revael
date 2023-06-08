@@ -1,7 +1,3 @@
-![Contributors](https://a.top4top.io/p_2080o56e70.png)  
-
-
-
 # Whatsapp-Revael V10.17
 ipa tweak Whatsapp Revael for WhatsApp Messenger
 -----------
