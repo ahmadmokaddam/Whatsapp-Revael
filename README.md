@@ -33,8 +33,9 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
          
          
  * IPA & TrollStore:**
- * Dylib For Shop Owners:** دايلب لأصحاب المتاجر    __[WhatsappRevael.dylib](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing)__ .
- * Dylib For TrollStore:** دايلب لأصحاب ترول ستور   __[WhatsappRevael.dylib](https://drive.google.com/file/d/1QavJcL1mIrkYn4NhOaUMITtS3DkSc2gv/view?usp=sharing)__ . 
+ * Dylib For Shop Owners:** دايلب لأصحاب المتاجر    __[Frameworks.zip](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing)__ .
+   &nbsp;
+ * Dylib For TrollStore:** دايلب لأصحاب ترول ستور   __[TRollStore.zip](https://drive.google.com/file/d/1QavJcL1mIrkYn4NhOaUMITtS3DkSc2gv/view?usp=sharing)__ . 
     
 &nbsp;
 
