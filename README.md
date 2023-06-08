@@ -26,7 +26,6 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         |  IPA Needs certification  |  تحتاج التوقيع بشهادة  IPA|
         | ------------------ |:---------:|
 
-
         | Application | Bundle | Version | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
