@@ -21,8 +21,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 | Application | Bundle | Version | Whatsapp Revael |
 | ------------------ |:---------:|:------:|:------:|
-| [WhatsApp](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
-| [WA Business](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+| [WhatsApp](https://drive.google.com/file/d/1gqpBnI_Gv6C2HsuUhzZh1TPFXBzVRfDl/view?usp=drive_link) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
+| [WA Business](https://drive.google.com/file/d/1DOaeyfvAfIxsHfeCAVFcqX5-SDHz2g1v/view?usp=drive_link) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
 
 
 
