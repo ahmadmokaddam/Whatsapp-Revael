@@ -8,14 +8,13 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 &nbsp;
 
 
+* ailbreak:** Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
+* Official BETA Repo :** Add __[Mokadam Repo](https://mokaddam.firepo.me/)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
-![Contributors](https://b.top4top.io/p_2080g0a291.png)  
 
-
-* **Jailbreak:** Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
 * (No Jailbreak): 
-  # Whatsapp Revael 
+ # Whatsapp Revael 
        
        
        
