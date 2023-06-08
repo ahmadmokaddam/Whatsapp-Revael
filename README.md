@@ -15,21 +15,20 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 * **Jailbreak:** Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
 * (No Jailbreak): 
-  ![Contributors](https://a.top4top.io/p_2080fcla60.png) 
-        # Whatsapp Revael 
+  ![Contributors]() 
+  # Whatsapp Revael 
        
        
-    1.  Official Bundles | باندل أساسي يحتاج حذف النسخه الرسميه
+       
+ 1.  Official Bundles | باندل أساسي يحتاج حذف النسخه الرسميه
 
- 
+|  IPA Needs certification  |  تحتاج التوقيع بشهادة  IPA|
+| ------------------ |:---------:|
 
-        |  IPA Needs certification  |  تحتاج التوقيع بشهادة  IPA|
-        | ------------------ |:---------:|
-
-        | Application | Bundle | Version | Whatsapp Revael |
-        | ------------------ |:---------:|:------:|:------:|
-        | [WhatsApp](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
-        | [WA Business](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+| Application | Bundle | Version | Whatsapp Revael |
+| ------------------ |:---------:|:------:|:------:|
+| [WhatsApp](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
+| [WA Business](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
 
 
 
@@ -40,7 +39,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
          
          
  * ** IPA & TrollStore:**
- * **Dylib For Shop Owners:** دايلب لأصحاب المتاجر   __[WhatsappRevael.dylib]([https://is.gd/xO4jyK](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing))__ .
+ * **Dylib For Shop Owners:** دايلب لأصحاب المتاجر   __[WhatsappRevael.dylib]([https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing)__ .
  * * **Dylib For TrollStore:** دايلب لأصحاب ترول ستور   __[WhatsappRevael.dylib](https://is.gd/xO4jyK)__ . 
     
 &nbsp;
