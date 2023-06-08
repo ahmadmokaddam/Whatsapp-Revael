@@ -21,20 +21,19 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
        
     1.  Official Bundles | باندل أساسي يحتاج حذف النسخه الرسميه
 
-  
-        
-          
+ 
 
-        | IPA Needs certification  |  تحتاج التوقيع بشهادة  IPA | 
+        |  IPA Needs certification  |  تحتاج التوقيع بشهادة  IPA|
         | ------------------ |:---------:|
 
-        
+
         | Application | Bundle | Version | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael](https://drive.google.com/file/d/1gqpBnI_Gv6C2HsuUhzZh1TPFXBzVRfDl/view?usp=sharing) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
-        | [WA Business Revael](https://drive.google.com/file/d/1DOaeyfvAfIxsHfeCAVFcqX5-SDHz2g1v/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
-         
-  
+        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
+        | [WA Business Revael TrollStore](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+
+
+
        
          
      &nbsp;    
