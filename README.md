@@ -2,7 +2,7 @@
 
 
 
-# Whatsapp-Revael V10.14
+# Whatsapp-Revael V10.17
 ipa tweak Whatsapp Revael for WhatsApp Messenger
 -----------
 &nbsp;
@@ -29,33 +29,10 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         | ------------------ |:---------:|
 
         
-        | Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
+        | Application | Bundle | Version | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael](https://is.gd/4s7PGS) | net.whatsapp.WhatsApp | 23.3.77 | NO | 10.14 |
-        | [WA Business Revael](https://is.gd/BmV6Dl) | net.whatsapp.WhatsAppSMB | 23.3.77 | NO | 10.14 |
-        | [WhatsApp Revael & Notices](https://mega.nz/file/WVYXlDYB#oC_cXu43iXmqMosgwXS8S9fXmfLmpDWivkbe0yEML0E) | net.whatsapp.WhatsApp | 23.3.77 | YES | 10.14 |
-        | [WA Business Revael & Notices](https://mega.nz/file/zVAURDTD#EIdR9kf_9XBtX4IKOCYqSwPb5fbfVW9J9NWyCWnDFac) | net.whatsapp.WhatsAppSMB | 23.3.77 | YES | 10.14 |
-
-
-   
-  
-       
-          
-
-        | TrollStore Bundle Official | ترول ستور باندل رسمي | 
-        | ------------------ |:---------:|
-
-        
-        | Application | Bundle | Version | Notices & icloud & background | Whatsapp Revael |
-        | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.3.77 | YES | 10.14 |
-        | [WA Business Revael TrollStore](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.3.77 | YES | 10.14 |
-       
-       
-	
-	
-	
-         
+        | [WhatsApp Revael](https://drive.google.com/file/d/1gqpBnI_Gv6C2HsuUhzZh1TPFXBzVRfDl/view?usp=sharing) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
+        | [WA Business Revael](https://drive.google.com/file/d/1DOaeyfvAfIxsHfeCAVFcqX5-SDHz2g1v/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
          
   
        
@@ -65,7 +42,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
          
          
  * ** IPA & TrollStore:**
- * **Dylib For Shop Owners:** دايلب لأصحاب المتاجر   __[WhatsappRevael.dylib](https://is.gd/xO4jyK)__ . 
+ * **Dylib For Shop Owners:** دايلب لأصحاب المتاجر   __[WhatsappRevael.dylib]([https://is.gd/xO4jyK](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing))__ .
+ * * **Dylib For TrollStore:** دايلب لأصحاب ترول ستور   __[WhatsappRevael.dylib](https://is.gd/xO4jyK)__ . 
     
 &nbsp;
 
