@@ -27,7 +27,7 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
         | ------------------ |:---------:|
 
         | Application | Bundle | Version | Whatsapp Revael |
-        | ------------------ |:---------:|:------:|:------:|:------:|
+        | ------------------ |:---------:|:------:|:------:|
         | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
         | [WA Business Revael TrollStore](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
 
@@ -41,8 +41,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
         | Application | Bundle | Version | Notices | Whatsapp Revael |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk) | net.whatsapp.WhatsApp | 23.3.77 | NO | 10.14 |
-        | [WA Business Revael TrollStore](https://drive.google.com/file/d/1XHCYWJm7CsntiyONeY5xWQTxTrv2Jbt7/view?usp=drivesdk) | net.whatsapp.WhatsAppSMB | 23.3.77 | NO | 10.14 |
+        | [WhatsApp Revael TrollStore](https://drive.google.com/file/d/1wLRGmkgx_XF-4aX3kq8Ee-ZD7TVUnI0n/view?usp=drivesdk)) | net.whatsapp.WhatsApp | 23.3.77 | NO | 10.14 |
+        | [WA Business Revael TrollStore](https://is.gd/ABnHQm) | net.whatsapp.WhatsAppSMB | 23.3.77 | NO | 10.14 |
 
 
 
