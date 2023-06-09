@@ -4,8 +4,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 &nbsp;
 
 
-* Jailbreak:** Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
-* Official BETA Repo :** Add __[Mokadam Repo](https://mokaddam.firepo.me/)__ to your Cydia/Zebra/Sileo sources and download it from there. 
+* Jailbreak: Add __[thebigboss Repo](http://apt.thebigboss.org/repofiles/cydia)__ to your Cydia/Zebra/Sileo sources and download it from there. 
+* Official BETA Repo : Add __[Mokadam Repo](https://mokaddam.firepo.me/)__ to your Cydia/Zebra/Sileo sources and download it from there. 
 
 
 
@@ -55,30 +55,30 @@ It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in Trol
   
          
          
- * IPA & TrollStore:**
- * Dylib For Shop Owners:** دايلب لأصحاب المتاجر    __[Frameworks.zip](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing)__ .
+ * IPA & TrollStore:
+ * Dylib For Shop Owners: دايلب لأصحاب المتاجر    __[Frameworks.zip](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing)__ .
    &nbsp;
- * Dylib For TrollStore:** دايلب لأصحاب ترول ستور   __[TRollStore.zip](https://drive.google.com/file/d/1QavJcL1mIrkYn4NhOaUMITtS3DkSc2gv/view?usp=sharing)__ . 
+ * Dylib For TrollStore: دايلب لأصحاب ترول ستور   __[TRollStore.zip](https://drive.google.com/file/d/1QavJcL1mIrkYn4NhOaUMITtS3DkSc2gv/view?usp=sharing)__ . 
     
 &nbsp;
 
-## Follow Me For Updates & News
+# Follow Me For Updates & News
 ## تابعني لتحصل على أخر التحديثات والأخبار
 
-* **twitter:** تويتر   __[Ahmad Mokadam](http://twitter.com/ahmadmokaddam)__ . 
-* **instagram:** أنستاغرام __[Ahmad Mokadam](http://instagram.com/ahmadmokaddam)__ . 
-* **facebook:** فيسبوك  __[Ahmad Mokadam](http://facebook.com/ahmadmokaddam)__ . 
-* **snapchat:** سناب شات  __[Ahmad Mokadam](https://www.snapchat.com/add/ahmad_mokadam)__ . 
-* **telegram:** تيليغرام  __[Ahmad Mokadam](http://https://t.me/AHMADMOKADAM)__ . 
-* **youtube:** يوتيوب   __[Ahmad Mokadam](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
-* **webSite:** الموقع الإلكتروني.       __[Ahmad Mokadam](http://mokadam.com)__ . 
+* Twitter: تويتر   __[Ahmad Mokadam](http://twitter.com/ahmadmokaddam)__ . 
+* instagram: أنستاغرام __[Ahmad Mokadam](http://instagram.com/ahmadmokaddam)__ . 
+* Facebook: فيسبوك  __[Ahmad Mokadam](http://facebook.com/ahmadmokaddam)__ . 
+* Snapchat: سناب شات  __[Ahmad Mokadam](https://www.snapchat.com/add/ahmad_mokadam)__ . 
+* Telegram: تيليغرام  __[Ahmad Mokadam](http://https://t.me/AHMADMOKADAM)__ . 
+* Youtube: يوتيوب   __[Ahmad Mokadam](https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1)__ . 
+* WebSite: الموقع الإلكتروني.       __[Ahmad Mokadam](http://mokadam.com)__ . 
 
 
 
 
 # لأي مشاكل المرجو التواصل عبر البريد او مواقع التواصل 
 # For any problems, please contact us via email or social media
-* **Email:** البريد.       __[Gmail](mailto:ahmadmokaddam@gmail.com)__ . 
+* Email: البريد.       __[Gmail](mailto:ahmadmokaddam@gmail.com)__ . 
 
 
 -----------------------
@@ -87,7 +87,7 @@ It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in Trol
 
 # شرح الأستخدام بدون جليبريك
 
-# * شرح مبسط للتثبيت بدون جليبريك بالعربيه [أضغط هنا](https://www.mokadam.com/p/alt.html?m=1)
+# شرح مبسط للتثبيت بدون جليبريك بالعربيه [أضغط هنا](https://www.mokadam.com/p/alt.html?m=1)
 
 --------------------
 
