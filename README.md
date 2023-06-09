@@ -12,7 +12,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 * (No Jailbreak): 
  # Whatsapp Revael 
        
-       
+|  Background Notifications & FileBackup ✅  |  الإشعارات بالخلفية & نسخ إحتياطي عبر الملفات ✅|
+| ------------------ |:---------:|
        
  1.  Official Bundles | باندل أساسي يحتاج حذف النسخه الرسميه
 
@@ -21,10 +22,30 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 | Application | Bundle | Version | Whatsapp Revael |
 | ------------------ |:---------:|:------:|:------:|
-| [WhatsApp](https://drive.google.com/file/d/1gqpBnI_Gv6C2HsuUhzZh1TPFXBzVRfDl/view?usp=drive_link) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
-| [WA Business](https://drive.google.com/file/d/1DOaeyfvAfIxsHfeCAVFcqX5-SDHz2g1v/view?usp=drive_link) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+| [WhatsApp](https://drive.google.com/file/d/1_bRlyhgKPguipTs_krQQho4e4cVl_kp7/view?usp=sharing) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
+| [WA Business](https://drive.google.com/file/d/1AcNL82WNIXGH3FjUyj1ah0eNLfCqBKg8/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+
+ &nbsp; 
 
 
+Sideloading with TrollStore
+Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and older)
+
+Install TrollStore
+Download IPA file from the table below
+Open IPA in TrollStore
+The following IPA's binary and Plugins are fakesigned with their original entitlements
+It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements.
+
+
+|  Official supports everything ✅  |  رسمي يدعم كل شيئ ✅|
+|  TrollStore ipa  |  ترول ستور  IPA|
+| ------------------ |:---------:|
+
+| Application | Bundle | Version | Whatsapp Revael |
+| ------------------ |:---------:|:------:|:------:|
+| [WhatsApp](https://drive.google.com/file/d/1IUGzl7qN_BNkOUhuiBnXDSv5gVxawd7d/view?usp=sharing) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
+| [WA Business](https://drive.google.com/file/d/1YXAiJTYikE0G_4LJJ_0tROHyF5giYSXG/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
 
        
          
@@ -70,47 +91,31 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 # English
 
-# How to Use on non-jailbroken devices
+1- Can Use Esign [https://esign.yyyue.xyz/](https://esign.yyyue.xyz/) Get free certification 
+You don't need a jailbreak or a computer
 
-1. A computer running macOS or Windows
-2. Internet connection
-3. Apple ID (email & password)
+2- Can Use AltStore [https://altstore.io/](https://altstore.io/) Get free certification 
+You need a computer
 
-# AltStore
+How to Sideload on non-jailbroken devices For AltStore [https://altstore.io/](https://altstore.io/)
+Requirements
+A computer running macOS or Windows
+Internet connection
+Apple ID (email & password)
+If you are on iOS 16, you may need to enable Developer Mode. (Settings > Privacy & Security > Developer Mode)
+AltStore
+Download the IPA file from the link above and copy it to your phone, using iCloud Drive, Airdrop, or any other method.
 
-* Download the IPA file from the link above and copy it to your phone, using iCloud Drive, Airdrop, or any other method.
+Download and install AltServer from here
 
-* Download and install AltServer from [here](https://altstore.io)
+Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
-* Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
+Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose original IPA or Bundle for the duplicate)
 
-* Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose original IPA or com.fouadraheb.watusi for the duplicate)
+Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
-* Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
-
-# Cydia Impactor (Requires Developer Account)
-
-* Download the IPA file from the link above and place it on your Desktop
-
-* Download and run Cydia Impactor for your operating system from [here](http://www.cydiaimpactor.com)
-
-* Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose original IPA or com.fouadraheb.watusi for the duplicate)
-
-* Connect your iOS device and hit "Trust" if prompted so that your device appears in Cydia Impactor
-
-* Drag the IPA file from your Desktop to Cydia Impactor
-
-* Enter your Apple ID email address when prompted 
-
-* Enter your password when prompted 
-
-* If you get an alert like the following, press "OK"
-
-* Wait for Cydia Impactor to finish and you will find the app installed on your device
-
-# Note
-
-* Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC. Non-Developer accounts do not work with Cydia Impactor.
-* The app will not receive Push Notifications and you won't be able to use iCloud features.
-
-
+FAQ
+If you receive "Please sign in with app-specific password" error, that's beacuse you have 2-factor authentication enabled for your Apple ID. You have to go into Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID's password.
+Note
+Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC.
+The app will not receive Push Notifications and you won't be able to use iCloud features.
