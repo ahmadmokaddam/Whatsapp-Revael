@@ -39,6 +39,8 @@ It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in Trol
 
 
 |  Official supports everything ✅  |  رسمي يدعم كل شيئ ✅|
+| ------------------ |:---------:|
+
 |  TrollStore ipa  |  ترول ستور  IPA|
 | ------------------ |:---------:|
 
