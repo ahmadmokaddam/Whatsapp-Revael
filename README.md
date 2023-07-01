@@ -1,4 +1,4 @@
-# Whatsapp-Revael V10.17
+# Whatsapp-Revael V10.18
 ipa tweak Whatsapp Revael for WhatsApp Messenger
 -----------
 &nbsp;
@@ -22,8 +22,8 @@ ipa tweak Whatsapp Revael for WhatsApp Messenger
 
 | Application | Bundle | Version | Whatsapp Revael |
 | ------------------ |:---------:|:------:|:------:|
-| [WhatsApp](https://drive.google.com/file/d/1_bRlyhgKPguipTs_krQQho4e4cVl_kp7/view?usp=sharing) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
-| [WA Business](https://drive.google.com/file/d/1AcNL82WNIXGH3FjUyj1ah0eNLfCqBKg8/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+| [WhatsApp](https://drive.google.com/file/d/1cBrFti9n3UKclQ0VmXtPB2zI5xD7-g5t/view?usp=sharing) | net.whatsapp.WhatsApp | 23.12.76 | 10.18 |
+| [WA Business](https://drive.google.com/file/d/1veC4DjZh8o-qx6XNaOjk0mF2cX9Vn5X0/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.12.76 | 10.18 |
 
  &nbsp; 
 
@@ -46,8 +46,8 @@ It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in Trol
 
 | Application | Bundle | Version | Whatsapp Revael |
 | ------------------ |:---------:|:------:|:------:|
-| [WhatsApp](https://drive.google.com/file/d/1IUGzl7qN_BNkOUhuiBnXDSv5gVxawd7d/view?usp=sharing) | net.whatsapp.WhatsApp | 23.11.78 | 10.17 |
-| [WA Business](https://drive.google.com/file/d/1YXAiJTYikE0G_4LJJ_0tROHyF5giYSXG/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.11.78 | 10.17 |
+| [WhatsApp](https://drive.google.com/file/d/12BxEik23ToQyYGQi_DznjwkKL6Jg7WCF/view?usp=sharing) | net.whatsapp.WhatsApp | 23.12.76 | 10.18 |
+| [WA Business](https://drive.google.com/file/d/1kSMJnBwjtrpOClNAFPay4IrMGUBY1FNn/view?usp=sharing) | net.whatsapp.WhatsAppSMB | 23.12.76 | 10.18 |
 
        
          
@@ -56,9 +56,9 @@ It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in Trol
          
          
  * IPA & TrollStore:
- * Dylib For Shop Owners: دايلب لأصحاب المتاجر    __[Frameworks.zip](https://drive.google.com/file/d/1z0mWmk5zXGHpHcBD-HnOp6mX2Duqz21L/view?usp=sharing)__ .
+ * Dylib For Shop Owners: دايلب لأصحاب المتاجر    __[Frameworks.zip](https://drive.google.com/file/d/19QXlA6r6Zd4f5HIpj8WmSiItc8zWlUB7/view?usp=sharing)__ .
    &nbsp;
- * Dylib For TrollStore: دايلب لأصحاب ترول ستور   __[TRollStore.zip](https://drive.google.com/file/d/1QavJcL1mIrkYn4NhOaUMITtS3DkSc2gv/view?usp=sharing)__ . 
+ * Dylib For TrollStore: دايلب لأصحاب ترول ستور   __[TRollStore.zip](https://drive.google.com/file/d/1OVMu4a5YL3nPlkXsVq9msrFBcDa-RCyX/view?usp=sharing)__ . 
     
 &nbsp;
 
