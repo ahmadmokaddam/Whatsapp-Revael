@@ -124,3 +124,28 @@ If you receive "Please sign in with app-specific password" error, that's beacuse
 Note
 Signing with a non developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC.
 The app will not receive Push Notifications and you won't be able to use iCloud features.
+
+
+# تطبيق السفر الرائع
+
+<img src="app-icon.png" alt="تطبيق السفر الرائع" width="200"/>
+
+<div style="background-color: #f0f0f0; padding: 20px;">
+  <p>مرحبًا بك في تطبيق السفر الرائع! هذا التطبيق يساعدك على تنظيم رحلاتك واستكشاف أماكن جديدة بكل سهولة. يتيح لك التطبيق إضافة معلومات حول الرحلات وتحديد الأماكن التي ترغب في زيارتها.</p>
+</div>
+
+<h2>مميزات التطبيق:</h2>
+<ul>
+  <li>إضافة وعرض معلومات حول الرحلات.</li>
+  <li>تحديد الأماكن على الخريطة وتخزينها لاحقًا.</li>
+  <li>مشاركة تفاصيل الرحلات مع أصدقائك.</li>
+  <li>واجهة سهلة الاستخدام وتصميم جميل.</li>
+</ul>
+
+<h3>كيفية الاستخدام:</h3>
+<ol>
+  <li>قم بتنزيل التطبيق من <a href="رابط-التطبيق">هنا</a>.</li>
+  <li>قم بتثبيته على هاتفك.</li>
+  <li>قم بفتح التطبيق وإنشاء حساب جديد إذا لم يكن لديك بالفعل.</li>
+  <li>ابدأ في إضافة رحلاتك واستكشاف العالم!</li>
+</ol>
