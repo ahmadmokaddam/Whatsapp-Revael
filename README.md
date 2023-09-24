@@ -5,19 +5,19 @@
 </head>
 <body>
 
-<h1> Whatsapp-Revael V10.18 </h1>
+<h3> Whatsapp-Revael V10.18 </h3>
 
 <p> Tweaked IPA for WhatsApp Messenger - Jailbreak Required </p>
 
 <hr>
 
-<h2> Jailbreak Instructions: </h2>
+<h4> Jailbreak Instructions: </h4>
 <ul>
     <li> Add <a href="http://apt.thebigboss.org/repofiles/cydia">thebigboss Repo</a> to your Cydia/Zebra/Sileo sources and download it from there. </li>
     <li> Official BETA Repo: Add <a href="https://mokaddam.firepo.me/">Mokadam Repo</a> to your Cydia/Zebra/Sileo sources and download it from there. </li>
 </ul>
 
-<h2> No Jailbreak Method: Whatsapp Revael </h2>
+<h4> No Jailbreak Method: Whatsapp Revael </h4>
 <p> Background Notifications & File Backup ✅ </p>
 <p> الإشعارات بالخلفية & نسخ إحتياطي عبر الملفات ✅ </p>
 
@@ -52,7 +52,7 @@
     </tbody>
 </table>
 
-<h2> Sideloading with TrollStore </h2>
+<h4> Sideloading with TrollStore </h4>
 <p> Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and older) </p>
 
 <p> Install TrollStore </p>
@@ -81,13 +81,13 @@
     </tbody>
 </table>
 
-<h2> IPA & TrollStore: </h2>
+<h4> IPA & TrollStore: </h4>
 <p> Dylib For Shop Owners: <a href="https://drive.google.com/file/d/19QXlA6r6Zd4f5HIpj8WmSiItc8zWlUB7/view?usp=sharing">Frameworks.zip</a> </p>
 <p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1OVMu4a5YL3nPlkXsVq9msrFBcDa-RCyX/view?usp=sharing">TRollStore.zip</a> </p>
 
-<h2> Follow Me For Updates & News </h2>
+<h4> Follow Me For Updates & News </h4>
 
-<h3> تابعني لتحصل على أخر التحديثات والأخبار </h3>
+<h5> تابعني لتحصل على أخر التحديثات والأخبار </h5>
 <ul>
     <li> Twitter: تويتر <a href="http://twitter.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
     <li> Instagram: أنستاغرام <a href="http://instagram.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
@@ -98,25 +98,25 @@
     <li> WebSite: الموقع الإلكتروني <a href="http://mokadam.com">Ahmad Mokadam</a> </li>
 </ul>
 
-<h2> لأي مشاكل المرجو التواصل عبر البريد أو مواقع التواصل </h2>
-<h3> For any problems, please contact us via email or social media </h3>
+<h4> لأي مشاكل المرجو التواصل عبر البريد أو مواقع التواصل </h4>
+<h5> For any problems, please contact us via email or social media </h5>
 <p> Email: البريد <a href="mailto:ahmadmokaddam@gmail.com">Gmail</a> </p>
 
 <hr>
 
-<h2> العربية </h2>
-<h2> شرح الاستخدام بدون جيلبريك </h2>
+<h4> العربية </h4>
+<h4> شرح الاستخدام بدون جيلبريك </h4>
 <p> شرح مبسط للتثبيت بدون جيلبريك باللغة العربية <a href="https://www.mokadam.com/p/alt.html?m=1">اضغط هنا</a> </p>
 
 <hr>
 
-<h2> English </h2>
+<h4> English </h4>
 <p> 1- Can Use Esign <a href="https://esign.yyyue.xyz/">https://esign.yyyue.xyz/</a> Get free certification You don't need a jailbreak or a computer </p>
 <p> 2- Can Use AltStore <a href="https://altstore.io/">https://altstore.io/</a> Get free certification You need a computer </p>
 
 <p> How to Sideload on non-jailbroken devices For AltStore <a href="https://altstore.io/">https://altstore.io/</a> Requirements A computer running macOS or Windows Internet connection Apple ID (email & password) If you are on iOS 16, you may need to enable Developer Mode. (Settings > Privacy & Security > Developer Mode) AltStore Download the IPA file from the link above and copy it to your phone, using iCloud Drive, Airdrop, or any other method. Download and install AltServer from here Right-click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not. Make sure no other WhatsApp with the same bundle identifier is installed. (net.whatsapp.WhatsApp if you chose the original IPA or Bundle for the duplicate) Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not. </p>
 
-<h3> FAQ </h3>
+<h5> FAQ </h5>
 <p> If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go into Apple's website <a href="https://appleid.apple.com">https://appleid.apple.com</a>, log in with your account and create an app-specific password to use as your Apple ID's password. </p>
 
 <p> Note: Signing with a non-developer account will have the app expire in 7 days, but Altstore automates re-signing as long as it is connected to your PC. The app will not receive Push Notifications and you won't be able to use iCloud features. </p>
