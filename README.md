@@ -31,12 +31,12 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://">WhatsApp</a> </td>
+            <td> <a href=" ">WhatsApp</a> </td>
             <td> 23.19.76 Soon!</td>
             <td> 10.19 </td>
         </tr>
         <tr>
-            <td> <a href="https://">WA Business</a> </td>
+            <td> <a href=" ">WA Business</a> </td>
             <td> 23.18.78 Soon!</td>
             <td> 10.19 </td>
         </tr>
@@ -78,8 +78,8 @@
 </table>
 
 <h4> IPA & TrollStore: </h4>
-<p> Dylib For Shop Owners: <a href="https://drive.google.com/file/d/19QXlA6r6Zd4f5HIpj8WmSiItc8zWlUB7/view?usp=sharing">Frameworks.zip</a> </p>
-<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1OVMu4a5YL3nPlkXsVq9msrFBcDa-RCyX/view?usp=sharing">TRollStore.zip</a> </p>
+<p> Dylib For Non Jailbreak: <a href="">Frameworks.zip</a> </p>
+<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1bNFH_U0URUj55Fez8_Syz3GnsFnuCTg8/view?usp=sharing">TRollStore.zip</a> </p>
 
 <h4> Follow Me For Updates & News </h4>
 
