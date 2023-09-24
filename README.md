@@ -1,5 +1,5 @@
 
-<h5> Whatsapp-Revael V10.18 </h5>
+<h3> Whatsapp-Revael V10.19 </h3>
 
 <p> Tweaked IPA for WhatsApp Messenger - Jailbreak Required </p>
 
@@ -13,7 +13,7 @@
 
 <h4> No Jailbreak Method: Whatsapp Revael </h4>
 <p> Background Notifications & File Backup ✅ </p>
-<p> الإشعارات بالخلفية & نسخ إحتياطي عبر الملفات ✅ </p>
+<p> ✅ الإشعارات بالخلفية & نسخ إحتياطي عبر الملفات  </p>
 
 <ol>
     <li> Official Bundles (Requires removal of official WhatsApp version) </li>
@@ -31,14 +31,14 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1cBrFti9n3UKclQ0VmXtPB2zI5xD7-g5t/view?usp=sharing">WhatsApp</a> </td>
-            <td> 23.12.76 </td>
-            <td> 10.18 </td>
+            <td> <a href="https://">WhatsApp</a> </td>
+            <td> 23.19.76 Soon!</td>
+            <td> 10.19 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1veC4DjZh8o-qx6XNaOjk0mF2cX9Vn5X0/view?usp=sharing">WA Business</a> </td>
-            <td> 23.12.76 </td>
-            <td> 10.18 </td>
+            <td> <a href="https://">WA Business</a> </td>
+            <td> 23.18.78 Soon!</td>
+            <td> 10.19 </td>
         </tr>
     </tbody>
 </table>
@@ -58,16 +58,21 @@
 
 <table>
     <thead>
-        <tr>
-            <th> TrollStore IPA </th>
+       <th> App </th>
+            <th> Version </th>
+            <th> Revael </th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/12BxEik23ToQyYGQi_DznjwkKL6Jg7WCF/view?usp=sharing">WhatsApp</a> </td>
+            <td> <a href="https://drive.google.com/file/d/1R0ElbSKjQYCFAXnAWpBsNJ-Q-CZjAbpe/view?usp=drivesdk">WhatsApp</a> </td>
+            <td> 23.19.76 </td>
+            <td> 10.19 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1kSMJnBwjtrpOClNAFPay4IrMGUBY1FNn/view?usp=sharing">WA Business</a> </td>
+            <td> <a href="https://drive.google.com/file/d/1OzYqsbdKLtjsqVicy6xZPpZlf8GgtYqa/view?usp=drivesdk">WA Business</a> </td>
+            <td> 23.18.78 </td>
+            <td> 10.19 </td>
         </tr>
     </tbody>
 </table>
