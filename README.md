@@ -18,7 +18,7 @@
 <ol>
     <li> Official Bundles (Requires removal of official WhatsApp version) </li>
     <br>
-    <li> باندل رسمي (يتطلب حذف النسخ الأساسية) </li>
+    <p>باندل رسمي (يتطلب حذف النسخ الأساسية) </p>
 </ol>
 
 <p> IPA Needs Certification (Requires IPA signing) </p>
@@ -27,7 +27,7 @@
         <tr>
             <th> App </th>
             <th> Version </th>
-            <th> Revael </th>
+            <th> WARevael </th>
         </tr>
     </thead>
     <tbody>
@@ -61,7 +61,7 @@
     <thead>
        <th> App </th>
             <th> Version </th>
-            <th> Revael </th>
+            <th> WARevael </th>
         </tr>
     </thead>
     <tbody>
