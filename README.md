@@ -12,15 +12,16 @@
 </ul>
 
 <h4> No Jailbreak Method: Whatsapp Revael </h4>
-<p> Background Notifications & File Backup ✅ </p>
-<p> ✅ الإشعارات بالخلفية & نسخ إحتياطي عبر الملفات  </p>
+<p> Background Notifications ✅ </p>
+<p> ✅ الإشعارات بالخلفية </p>
 
 <ol>
     <li> Official Bundles (Requires removal of official WhatsApp version) </li>
+    <br>
+    <li> باندل رسمي (يتطلب حذف النسخ الأساسية) </li>
 </ol>
 
 <p> IPA Needs Certification (Requires IPA signing) </p>
-
 <table>
     <thead>
         <tr>
@@ -31,13 +32,13 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href=" ">WhatsApp</a> </td>
-            <td> 23.19.76 Soon!</td>
+            <td> <a href="https://drive.google.com/file/d/15N0vQqeD-Zi1x9mxb55RxiBS2IfpC3y3/view?usp=sharing">WhatsApp</a> </td>
+            <td> 23.19.76 </td>
             <td> 10.19 </td>
         </tr>
         <tr>
-            <td> <a href=" ">WA Business</a> </td>
-            <td> 23.18.78 Soon!</td>
+            <td> <a href="https://drive.google.com/file/d/1c5vvBBXsC9OXV7GRX6Wm2BCRtDCeF5Vn/view?usp=sharing">WA Business</a> </td>
+            <td> 23.18.78 </td>
             <td> 10.19 </td>
         </tr>
     </tbody>
@@ -78,7 +79,7 @@
 </table>
 
 <h4> IPA & TrollStore: </h4>
-<p> Dylib For Non Jailbreak: <a href="">Frameworks.zip</a> </p>
+<p> Dylib For Non Jailbreak: <a href="https://drive.google.com/file/d/1dB9Z-comf9cI9NAv1GZ5wqrZPYoqLdnU/view?usp=sharing">NO Jailbreak.zip</a> </p>
 <p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1bNFH_U0URUj55Fez8_Syz3GnsFnuCTg8/view?usp=sharing">TRollStore.zip</a> </p>
 
 <h4> Follow Me For Updates & News </h4>
