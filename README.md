@@ -1,8 +1,8 @@
 
-<h3> Whatsapp-Revael V10.20 </h3>
+<h4> Whatsapp-Revael V10.20 </h4>
 
-<h1>. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
-</h1>
+<h3>. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
+</h3>
 
 <p> Tweaked IPA for WhatsApp Messenger & Jailbreak Required </p>
 
