@@ -1,22 +1,25 @@
 
-<h3> Whatsapp-Revael V10.19 </h3>
+<h3> Whatsapp-Revael V10.20 </h3>
 
-<p> Tweaked IPA for WhatsApp Messenger - Jailbreak Required </p>
+<h1>. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
+</h1>
+
+<p> Tweaked IPA for WhatsApp Messenger & Jailbreak Required </p>
 
 <hr>
 
 <h4> Jailbreak Instructions: </h4>
 <ul>
     <li> Add <a href="http://apt.thebigboss.org/repofiles/cydia">thebigboss Repo</a> to your Cydia/Zebra/Sileo sources and download it from there. </li>
-    <li> Official BETA Repo: Add <a href="https://mokaddam.firepo.me/">Mokadam Repo</a> to your Cydia/Zebra/Sileo sources and download it from there. </li>
+    <li> Add <a href="https://mokaddam.firepo.me/">Mokadam Repo</a> to your Cydia/Zebra/Sileo sources and download it from there. </li>
 </ul>
 
-<h4> No Jailbreak Method: Whatsapp Revael </h4>
+<h4> No Jailbreak : Whatsapp Revael </h4>
 <p> Background Notifications ✅ </p>
 <p> ✅ الإشعارات بالخلفية </p>
 
 <ol>
-    <li> Official Bundles (Requires removal of official WhatsApp version) </li>
+    <li> Official Bundles (Requires Need remove official WhatsApp version) </li>
     <br>
     <p>باندل رسمي (يتطلب حذف النسخ الأساسية) </p>
 </ol>
@@ -32,13 +35,13 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/15N0vQqeD-Zi1x9mxb55RxiBS2IfpC3y3/view?usp=sharing">WhatsApp</a> </td>
-            <td> 23.19.76 </td>
-            <td> 10.19 </td>
+            <td> <a href="https://drive.google.com/file/d/1Nms_h_ECndZnpnBrMicFPa0OOMQt1ovK/view?usp=sharing">WhatsApp</a> </td>
+            <td> 23.20.79 </td>
+            <td> 10.120 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1c5vvBBXsC9OXV7GRX6Wm2BCRtDCeF5Vn/view?usp=sharing">WA Business</a> </td>
-            <td> 23.18.78 </td>
+            <td> <a href="https://drive.google.com/file/d/1uHsmgU7DaUaty5imMxRuHp1QI4dOMDAr/view?usp=sharing">WA Business</a> </td>
+            <td> 23.20.79 </td>
             <td> 10.19 </td>
         </tr>
     </tbody>
@@ -66,21 +69,21 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1R0ElbSKjQYCFAXnAWpBsNJ-Q-CZjAbpe/view?usp=drivesdk">WhatsApp</a> </td>
-            <td> 23.19.76 </td>
+            <td> <a href="https://drive.google.com/file/d/1Nms_h_ECndZnpnBrMicFPa0OOMQt1ovK/view?usp=sharing">WhatsApp</a> </td>
+            <td> 23.20.79 </td>
             <td> 10.19 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1OzYqsbdKLtjsqVicy6xZPpZlf8GgtYqa/view?usp=drivesdk">WA Business</a> </td>
-            <td> 23.18.78 </td>
+            <td> <a href="https://drive.google.com/file/d/1uHsmgU7DaUaty5imMxRuHp1QI4dOMDAr/view?usp=sharing">WA Business</a> </td>
+            <td> 23.20.79 </td>
             <td> 10.19 </td>
         </tr>
     </tbody>
 </table>
 
 <h4> IPA & TrollStore: </h4>
-<p> Dylib For Non Jailbreak: <a href="https://drive.google.com/file/d/1dB9Z-comf9cI9NAv1GZ5wqrZPYoqLdnU/view?usp=sharing">NO Jailbreak.zip</a> </p>
-<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1bNFH_U0URUj55Fez8_Syz3GnsFnuCTg8/view?usp=sharing">TRollStore.zip</a> </p>
+<p> Dylib For Non Jailbreak: <a href="https://drive.google.com/file/d/1tQ6Qstvt_fR7r_R7h10uLt2pYVzNbVPn/view?usp=sharing">NO Jailbreak.zip</a> </p>
+<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1tQ6Qstvt_fR7r_R7h10uLt2pYVzNbVPn/view?usp=sharing">TRollStore.zip</a> </p>
 
 <h4> Follow Me For Updates & News </h4>
 
