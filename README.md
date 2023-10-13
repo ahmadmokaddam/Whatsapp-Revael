@@ -37,12 +37,12 @@
         <tr>
             <td> <a href="https://drive.google.com/file/d/1Nms_h_ECndZnpnBrMicFPa0OOMQt1ovK/view?usp=sharing">WhatsApp</a> </td>
             <td> 23.20.79 </td>
-            <td> 10.120 </td>
+            <td> 10.20 </td>
         </tr>
         <tr>
             <td> <a href="https://drive.google.com/file/d/1uHsmgU7DaUaty5imMxRuHp1QI4dOMDAr/view?usp=sharing">WA Business</a> </td>
             <td> 23.20.79 </td>
-            <td> 10.19 </td>
+            <td> 10.20 </td>
         </tr>
     </tbody>
 </table>
@@ -71,12 +71,12 @@
         <tr>
             <td> <a href="https://drive.google.com/file/d/1Nms_h_ECndZnpnBrMicFPa0OOMQt1ovK/view?usp=sharing">WhatsApp</a> </td>
             <td> 23.20.79 </td>
-            <td> 10.19 </td>
+            <td> 10.20 </td>
         </tr>
         <tr>
             <td> <a href="https://drive.google.com/file/d/1uHsmgU7DaUaty5imMxRuHp1QI4dOMDAr/view?usp=sharing">WA Business</a> </td>
             <td> 23.20.79 </td>
-            <td> 10.19 </td>
+            <td> 10.20 </td>
         </tr>
     </tbody>
 </table>
