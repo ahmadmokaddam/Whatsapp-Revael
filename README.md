@@ -1,5 +1,5 @@
 
-<h4> Whatsapp-Revael V10.20 </h4>
+<h4> Whatsapp-Revael V10.21 </h4>
 
 <h3>. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
 </h3>
@@ -35,14 +35,14 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1Nms_h_ECndZnpnBrMicFPa0OOMQt1ovK/view?usp=sharing">WhatsApp</a> </td>
-            <td> 23.20.79 </td>
-            <td> 10.20 </td>
+            <td> <a href="https://drive.google.com/file/d/1Z3Xjaw41LFVjsywawcLwXS7DOfTOAL0-/view?usp=share_link">WhatsApp</a> </td>
+            <td> 23.21.0 </td>
+            <td> 10.21 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1uHsmgU7DaUaty5imMxRuHp1QI4dOMDAr/view?usp=sharing">WA Business</a> </td>
-            <td> 23.20.79 </td>
-            <td> 10.20 </td>
+            <td> <a href="https://drive.google.com/file/d/19nSWKp6pMddxl810Eb-sD_jKUO8uEKqn/view?usp=share_link">WA Business</a> </td>
+            <td> 23.21.70 </td>
+            <td> 10.21 </td>
         </tr>
     </tbody>
 </table>
@@ -69,21 +69,21 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1Nms_h_ECndZnpnBrMicFPa0OOMQt1ovK/view?usp=sharing">WhatsApp</a> </td>
-            <td> 23.20.79 </td>
-            <td> 10.20 </td>
+            <td> <a href="https://drive.google.com/file/d/1Z3Xjaw41LFVjsywawcLwXS7DOfTOAL0-/view?usp=share_link">WhatsApp</a> </td>
+            <td> 23.21.0 </td>
+            <td> 10.21 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1uHsmgU7DaUaty5imMxRuHp1QI4dOMDAr/view?usp=sharing">WA Business</a> </td>
-            <td> 23.20.79 </td>
-            <td> 10.20 </td>
+            <td> <a href="https://drive.google.com/file/d/19nSWKp6pMddxl810Eb-sD_jKUO8uEKqn/view?usp=share_link">WA Business</a> </td>
+            <td> 23.21.70 </td>
+            <td> 10.21 </td>
         </tr>
     </tbody>
 </table>
 
 <h4> IPA & TrollStore: </h4>
-<p> Dylib For Non Jailbreak: <a href="https://drive.google.com/file/d/1tQ6Qstvt_fR7r_R7h10uLt2pYVzNbVPn/view?usp=sharing">NO Jailbreak.zip</a> </p>
-<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1tQ6Qstvt_fR7r_R7h10uLt2pYVzNbVPn/view?usp=sharing">TRollStore.zip</a> </p>
+<p> Dylib For Non Jailbreak: <a href="https://drive.google.com/file/d/1wVLTUOdSMJcqI4j40vND6tLirjL5vT-E/view?usp=share_link">NO Jailbreak.zip</a> </p>
+<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1wVLTUOdSMJcqI4j40vND6tLirjL5vT-E/view?usp=share_link">TRollStore.zip</a> </p>
 
 <h4> Follow Me For Updates & News </h4>
 
