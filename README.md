@@ -1,5 +1,5 @@
 
-<h4> Whatsapp-Revael V10.21 </h4>
+<h4> Whatsapp-Revael V10.22 </h4>
 
 <h3>. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
 </h3>
@@ -35,20 +35,20 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1Z3Xjaw41LFVjsywawcLwXS7DOfTOAL0-/view?usp=share_link">WhatsApp</a> </td>
-            <td> 23.21.0 </td>
-            <td> 10.21 </td>
+            <td> <a href="https://drive.google.com/file/d/1w7oGMQjMIq1JfvL8mJtJiDH4ZSB2a5vL/view?usp=sharing">WhatsApp</a> </td>
+            <td> 24.3.76 </td>
+            <td> 10.22 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/19nSWKp6pMddxl810Eb-sD_jKUO8uEKqn/view?usp=share_link">WA Business</a> </td>
-            <td> 23.21.70 </td>
-            <td> 10.21 </td>
+            <td> <a href="https://drive.google.com/file/d/1mJCHl4qTB0MhRc_EJXabraQyaAQyT2G_/view?usp=sharing">WA Business</a> </td>
+            <td> 24.3.76 </td>
+            <td> 10.22 </td>
         </tr>
     </tbody>
 </table>
 
 <h4> Sideloading with TrollStore </h4>
-<p> Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and older) </p>
+<p> Available for iOS 14 - 17 </p>
 
 <p> Install TrollStore </p>
 <p> Download IPA file from the table below </p>
@@ -56,34 +56,8 @@
 
 <p> The following IPA's binary and Plugins are fakesigned with their original entitlements. It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements. </p>
 
-<ol>
-    <li> Official supports everything ✅ </li>
-</ol>
-
-<table>
-    <thead>
-       <th> App </th>
-            <th> Version </th>
-            <th> WARevael </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td> <a href="https://drive.google.com/file/d/1Z3Xjaw41LFVjsywawcLwXS7DOfTOAL0-/view?usp=share_link">WhatsApp</a> </td>
-            <td> 23.21.0 </td>
-            <td> 10.21 </td>
-        </tr>
-        <tr>
-            <td> <a href="https://drive.google.com/file/d/19nSWKp6pMddxl810Eb-sD_jKUO8uEKqn/view?usp=share_link">WA Business</a> </td>
-            <td> 23.21.70 </td>
-            <td> 10.21 </td>
-        </tr>
-    </tbody>
-</table>
-
-<h4> IPA & TrollStore: </h4>
-<p> Dylib For Non Jailbreak: <a href="https://drive.google.com/file/d/1wVLTUOdSMJcqI4j40vND6tLirjL5vT-E/view?usp=share_link">NO Jailbreak.zip</a> </p>
-<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1wVLTUOdSMJcqI4j40vND6tLirjL5vT-E/view?usp=share_link">TRollStore.zip</a> </p>
+<h4> TrollStore: </h4>
+<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1rQvfPpyqU5yQeZAJo6LClALmWSJFUOls/view?usp=sharing">TRollStore.zip</a> </p>
 
 <h4> Follow Me For Updates & News </h4>
 
