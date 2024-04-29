@@ -1,5 +1,5 @@
 
-<h4> Whatsapp-Revael V10.22 </h4>
+<h4> Whatsapp-Revael V10.23 </h4>
 
 <h3>. Note : If you install ipa or TrollStore on a jailbroken device, you must disable the Tweaks from the application before starting.
 </h3>
@@ -35,14 +35,14 @@
     </thead>
     <tbody>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1w7oGMQjMIq1JfvL8mJtJiDH4ZSB2a5vL/view?usp=sharing">WhatsApp</a> </td>
-            <td> 24.3.76 </td>
-            <td> 10.22 </td>
+            <td> <a href="https://drive.google.com/file/d/1xtccc6SJYkvsO-wu0oHXPbD4u36V166k/view?usp=sharing">WhatsApp</a> </td>
+            <td> 24.8.83 </td>
+            <td> 10.23 </td>
         </tr>
         <tr>
-            <td> <a href="https://drive.google.com/file/d/1mJCHl4qTB0MhRc_EJXabraQyaAQyT2G_/view?usp=sharing">WA Business</a> </td>
-            <td> 24.3.76 </td>
-            <td> 10.22 </td>
+            <td> <a href="https://drive.google.com/file/d/1v-owgTVyIzRx7p6GRCT51AYCOdNH61Gu/view?usp=sharing">WA Business</a> </td>
+            <td> 24.8.83 </td>
+            <td> 10.23 </td>
         </tr>
     </tbody>
 </table>
@@ -57,19 +57,21 @@
 <p> The following IPA's binary and Plugins are fakesigned with their original entitlements. It does not include any fixes for WhatsApp, so IT WILL CRASH if not used in TrollStore or not signed with proper certificate and entitlements. </p>
 
 <h4> TrollStore: </h4>
-<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1rQvfPpyqU5yQeZAJo6LClALmWSJFUOls/view?usp=sharing">TRollStore.zip</a> </p>
+<p> Dylib For TrollStore: <a href="https://drive.google.com/file/d/1XzbQvnQv5W9BmlEHyshZ1EtpWBuUcU9m/view?usp=sharing">TRollStore.zip</a> </p>
+
+<h4> Sideloadly: </h4>
+<p> Dylib For Sideloadly: <a href="https://drive.google.com/file/d/1Ihk8SzyFuygtwNqlDyeOhLqBldRtGSbU/view?usp=sharing">Sideloadly.zip</a> </p>
 
 <h4> Follow Me For Updates & News </h4>
 
 <h5> تابعني لتحصل على أخر التحديثات والأخبار </h5>
 <ul>
-    <li> Twitter: تويتر <a href="http://twitter.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
-    <li> Instagram: أنستاغرام <a href="http://instagram.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
-    <li> Facebook: فيسبوك <a href="http://facebook.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
-    <li> Snapchat: سناب شات <a href="https://www.snapchat.com/add/ahmad_mokadam">Ahmad Mokadam</a> </li>
-    <li> Telegram: تيليغرام <a href="http://https://t.me/AHMADMOKADAM">Ahmad Mokadam</a> </li>
-    <li> Youtube: يوتيوب <a href="https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1">Ahmad Mokadam</a> </li>
-    <li> WebSite: الموقع الإلكتروني <a href="http://mokadam.com">Ahmad Mokadam</a> </li>
+    <li> Twitter <a href="http://twitter.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
+    <li> Instagram <a href="http://instagram.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
+    <li> Facebook <a href="http://facebook.com/ahmadmokaddam">Ahmad Mokadam</a> </li>
+    <li> Snapchat <a href="https://www.snapchat.com/add/ahmad_mokadam">Ahmad Mokadam</a> </li>
+    <li> Telegram <a href="http://https://t.me/AHMADMOKADAM">Ahmad Mokadam</a> </li>
+    <li> Youtube <a href="https://m.youtube.com/channel/UCA72wIrAAB3FBmqS8L5MCjg/about?disable_polymer=1">Ahmad Mokadam</a> </li>
 </ul>
 
 <h4> لأي مشاكل المرجو التواصل عبر البريد أو مواقع التواصل </h4>
